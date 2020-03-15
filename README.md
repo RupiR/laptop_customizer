@@ -2,6 +2,6 @@
 
 _Starter project for React course_
 
-Created by Rupali Rajput
+Worked on by Rupali Rajput and Vik Birdi
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
